@@ -99,6 +99,6 @@
 **writee_handlers.c**
 * contains write functions.
 
-**Authors
+**Authors**
 * Ifeany Kalu [Github](https://github.com/fazzy12)
 * Felix Adeh Essienne [Github](https://github.com/essien1990)
