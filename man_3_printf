@@ -23,7 +23,7 @@ The argument must correspond properly with the conversion specifier. By default,
 .SH The conversion specifier
  A character that specifies the type of conversion to be applied. The conversion specifiers and their meanings are:
 .TP
-.BR c
+.BR C
 The int argument is converted to an unsigned char, then the resulting character is written
 .TP
 .B s
